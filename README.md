@@ -27,5 +27,8 @@ Analysis of the dataset unveiled the most frequent route taken, shedding light o
 Extraction of Highest Route Speed:
 
 The dataset was examined to identify the highest route speed, revealing that the commute with the highest average speed was 58.44 mph.
+
+
+
 Conclusion:
 Effective data cleaning procedures are essential for ensuring the accuracy and reliability of analytical insights. Through the extraction of date and time, removal of blanks, and analysis of unique locations and routes, valuable insights were gleaned from the dataset. These insights contribute to a deeper understanding of transportation patterns and route efficiency, highlighting areas for further exploration and optimization
